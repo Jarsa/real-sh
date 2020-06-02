@@ -2,3 +2,8 @@
 	path = odoo-utilities
 	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
 	branch = 13.0
+
+[submodule "social"]
+	path = social
+	url = git@github.com:jarsa/social.git
+	branch = 13.0
