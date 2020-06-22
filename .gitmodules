@@ -6,4 +6,9 @@
 [submodule "social"]
 	path = social
 	url = git@github.com:jarsa/social.git
+    branch = 13.0
+
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:jarsa/mexico.git
 	branch = 13.0
