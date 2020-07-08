@@ -12,3 +12,11 @@
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
 	branch = 13.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:jarsa/stock-logistics-warehouse.git
+	branch = 13.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:jarsa/server-backend.git
+	branch = 13.0
