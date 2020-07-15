@@ -20,3 +20,7 @@
 	path = server-backend
 	url = git@github.com:jarsa/server-backend.git
 	branch = 13.0
+[submodule "real"]
+	path = real
+	url = git@git.vauxoo.com:jarsa/real.git
+	branch = 13.0
