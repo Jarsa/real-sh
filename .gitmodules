@@ -22,5 +22,5 @@
 	branch = 13.0
 [submodule "real"]
 	path = real
-	url = git@git.vauxoo.com:jarsa/real.git
-	branch = 13.0
+	url = git@git.vauxoo.com:jarsa-dev/real.git
+	branch = tino-real-security
