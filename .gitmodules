@@ -24,3 +24,7 @@
 	path = real
 	url = git@git.vauxoo.com:jarsa/real.git
 	branch = 13.0
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:Jarsa/credit-control.git
+	branch = 13.0
