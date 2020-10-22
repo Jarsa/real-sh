@@ -1,7 +1,3 @@
-[submodule "real"]
-	path = real
-	url = git@git.vauxoo.com:jarsa/real.git
-	branch = 14.0
 [submodule "odoo-utilities"]
 	path = odoo-utilities
 	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
@@ -13,4 +9,8 @@
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = git@github.com:jarsa/stock-logistics-warehouse.git
+	branch = 14.0
+[submodule "real"]
+	path = real
+	url = git@git.vauxoo.com:jarsa/real.git
 	branch = 14.0
