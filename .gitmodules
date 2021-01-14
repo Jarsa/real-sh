@@ -30,3 +30,7 @@
 	path = server-ux
 	url = git@github.com:jarsa/server-ux.git
 	branch = 14.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:jarsa/stock-logistics-workflow.git
+	branch = 14.0
