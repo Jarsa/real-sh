@@ -10,10 +10,6 @@
 	path = stock-logistics-warehouse
 	url = git@github.com:jarsa/stock-logistics-warehouse.git
 	branch = 14.0
-[submodule "real"]
-	path = real
-	url = git@git.vauxoo.com:jarsa/real.git
-	branch = 14.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
@@ -53,4 +49,8 @@
 [submodule "account-financial-tools"]
 	path = account-financial-tools
 	url = git@github.com:jarsa/account-financial-tools.git
+	branch = 14.0
+[submodule "real"]
+	path = real
+	url = git@git.vauxoo.com:jarsa/real.git
 	branch = 14.0
