@@ -54,3 +54,7 @@
 	path = real
 	url = git@git.vauxoo.com:jarsa/real.git
 	branch = 14.0
+[submodule "server-tools"]
+	path = server-tools
+	url = git@github.com:jarsa/server-tools.git
+	branch = 14.0
