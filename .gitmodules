@@ -78,3 +78,8 @@
 	path = manufacture
 	url = git@github.com:jarsa/manufacture.git
 	branch = 14.0
+
+[submodule "itadmin01/payroll"]
+	path = itadmin01/payroll
+	url = git@github.com:itadmin01/jarsa.git
+	branch = 14.0
