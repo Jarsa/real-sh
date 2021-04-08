@@ -81,5 +81,5 @@
 	branch = 14.0
 [submodule "xunnel-account"]
 	path = xunnel-account
-	url = git@github.com:jarsa/xunnel-account.git
+	url = git@git.vauxoo.com:jarsa/xunnel-account.git
 	branch = 14.0
