@@ -30,10 +30,6 @@
 	path = stock-logistics-workflow
 	url = git@github.com:jarsa/stock-logistics-workflow.git
 	branch = 14.0
-[submodule "reporting-engine"]
-	path = reporting-engine
-	url = git@github.com:jarsa/reporting-engine.git
-	branch = 14.0
 [submodule "mexico-document"]
 	path = mexico-document
 	url = git@git.vauxoo.com:jarsa/mexico-document.git
@@ -82,4 +78,8 @@
 [submodule "xunnel-account"]
 	path = xunnel-account
 	url = git@git.vauxoo.com:jarsa/xunnel-account.git
+	branch = 14.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:jarsa/reporting-engine.git
 	branch = 14.0
