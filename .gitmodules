@@ -71,10 +71,6 @@
 	url = git@github.com:jarsa/manufacture.git
 	branch = 14.0
 
-[submodule "itadmin01/payroll"]
-	path = itadmin01/payroll
-	url = git@github.com:itadmin01/jarsa.git
-	branch = 14.0
 [submodule "xunnel-account"]
 	path = xunnel-account
 	url = git@git.vauxoo.com:jarsa/xunnel-account.git
@@ -82,4 +78,8 @@
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = git@github.com:jarsa/reporting-engine.git
+	branch = 14.0
+[submodule "itadmin01/payroll"]
+	path = itadmin01/payroll
+	url = git@github.com:itadmin/jarsa.git
 	branch = 14.0
