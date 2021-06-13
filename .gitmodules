@@ -87,3 +87,7 @@
 	path = account-reconcile
 	url = git@github.com:jarsa/account-reconcile.git
 	branch = 14.0
+[submodule "account-fix-tools"]
+	path = account-fix-tools
+	url = git@github.com:jarsa/account-fix-tools.git
+	branch = 14.0
