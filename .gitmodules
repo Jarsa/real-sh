@@ -91,3 +91,6 @@
 	path = account-fix-tools
 	url = git@github.com:jarsa/account-fix-tools.git
 	branch = 14.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:OCA/mis-builder.git
