@@ -94,3 +94,7 @@
 [submodule "mis-builder"]
 	path = mis-builder
 	url = git@github.com:OCA/mis-builder.git
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:jarsa/account-payment.git
+	branch = 14.0
