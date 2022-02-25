@@ -98,3 +98,7 @@
 	path = account-payment
 	url = git@github.com:jarsa/account-payment.git
 	branch = 14.0
+[submodule "jarsa-mexico"]
+	path = jarsa-mexico
+	url = git@git.vauxoo.com:jarsa/jarsa-mexico.git
+	branch = 14.0
