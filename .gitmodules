@@ -102,3 +102,8 @@
 	path = jarsa-mexico
 	url = git@git.vauxoo.com:jarsa/jarsa-mexico.git
 	branch = 14.0
+
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:Jarsa/product-attribute.git
+	branch = 14.0
