@@ -107,3 +107,7 @@
 	path = product-attribute
 	url = git@github.com:Jarsa/product-attribute.git
 	branch = 14.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:jarsa/edi-document.git
+	branch = 14.0
