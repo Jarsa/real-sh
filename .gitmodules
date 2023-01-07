@@ -111,3 +111,7 @@
 	path = edi-document
 	url = git@git.vauxoo.com:jarsa/edi-document.git
 	branch = 14.0
+[submodule "odoo-cloc"]
+	path = odoo-cloc
+	url = git@git.vauxoo.com:jarsa/odoo-cloc.git
+	branch = 14.0
