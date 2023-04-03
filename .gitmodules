@@ -42,10 +42,6 @@
 	path = account-financial-tools
 	url = git@github.com:jarsa/account-financial-tools.git
 	branch = 14.0
-[submodule "real"]
-	path = real
-	url = git@git.vauxoo.com:jarsa/real.git
-	branch = 14.0
 [submodule "server-tools"]
 	path = server-tools
 	url = git@github.com:jarsa/server-tools.git
@@ -98,11 +94,6 @@
 	path = account-payment
 	url = git@github.com:jarsa/account-payment.git
 	branch = 14.0
-[submodule "jarsa-mexico"]
-	path = jarsa-mexico
-	url = git@git.vauxoo.com:jarsa/jarsa-mexico.git
-	branch = 14.0
-
 [submodule "product-attribute"]
 	path = product-attribute
 	url = git@github.com:Jarsa/product-attribute.git
@@ -113,5 +104,9 @@
 	branch = 14.0
 [submodule "odoo-cloc"]
 	path = odoo-cloc
-	url = git@git.vauxoo.com:jarsa/odoo-cloc.git
+	url = git@github.com:Jarsa/odoo-cloc.git
+	branch = 14.0
+[submodule "real"]
+	path = real
+	url = git@git.jarsa.com:Jarsa/real.git
 	branch = 14.0
