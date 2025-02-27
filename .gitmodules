@@ -114,3 +114,7 @@
 	path = l10n-mx-edi-product-refund-accounts
 	url = git@git.vauxoo.com:jarsa/l10n-mx-edi-product-refund-accounts.git
 	branch = 17.0
+[submodule "mexico-document"]
+	path = mexico-document
+	url = git@git.vauxoo.com:jarsa/mexico-document.git
+	branch = 17.0
