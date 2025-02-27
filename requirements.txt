@@ -1,2 +1,0 @@
-xmltodict
-openupgradelib @ git+https://github.com/OCA/openupgradelib.git
