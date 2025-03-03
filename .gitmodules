@@ -122,3 +122,8 @@
 	path = l10n-edi-hr-expense
 	url = git@git.vauxoo.com:jarsa/l10n-edi-hr-expense.git
 	branch = 17.0
+
+[submodule "stock-logistics-availability"]
+	path = stock-logistics-availability
+	url = git@github.com:Jarsa/stock-logistics-availability.git
+	branch = 17.0
