@@ -132,3 +132,7 @@
 	path = stock-logistics-request
 	url = git@github.com:Jarsa/stock-logistics-request.git
 	branch = 17.0
+[submodule "l10n-mx-partner-blocklist"]
+	path = l10n-mx-partner-blocklist
+	url = git@git.vauxoo.com:jarsa/l10n-mx-partner-blocklist.git
+	branch = 17.0
