@@ -127,3 +127,8 @@
 	path = stock-logistics-availability
 	url = git@github.com:Jarsa/stock-logistics-availability.git
 	branch = 17.0
+
+[submodule "stock-logistics-request"]
+	path = stock-logistics-request
+	url = git@github.com:Jarsa/stock-logistics-request.git
+	branch = 17.0
