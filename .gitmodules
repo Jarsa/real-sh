@@ -136,3 +136,7 @@
 	path = l10n-mx-partner-blocklist
 	url = git@git.vauxoo.com:jarsa/l10n-mx-partner-blocklist.git
 	branch = 17.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = git@github.com:Jarsa/bank-statement-import.git
+	branch = 17.0
