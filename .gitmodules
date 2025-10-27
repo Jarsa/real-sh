@@ -145,3 +145,8 @@
 	path = amxodoo-enterprise
 	url = git@github.com:Jarsa/amxodoo-enterprise.git
 	branch = 17.0
+
+[submodule "queue"]
+	path = queue
+	url = git@github.com:Jarsa/queue.git
+	branch = 17.0
