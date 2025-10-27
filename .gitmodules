@@ -140,3 +140,8 @@
 	path = bank-statement-import
 	url = git@github.com:Jarsa/bank-statement-import.git
 	branch = 17.0
+
+[submodule "amxodoo-enterprise"]
+	path = amxodoo-enterprise
+	url = git@github.com:Jarsa/amxodoo-enterprise.git
+	branch = 17.0
