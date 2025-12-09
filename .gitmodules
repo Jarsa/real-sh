@@ -80,7 +80,7 @@
 	branch = 17.0
 [submodule "real"]
 	path = real
-	url = git@git.jarsa.com:Jarsa/real.git
+	url = git@git.jarsa.com:Jarsa-dev/real.git
 	branch = 17.0
 [submodule "credit-control"]
 	path = credit-control
