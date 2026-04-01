@@ -155,3 +155,7 @@
 	path = l10n-mexico
 	url = git@github.com:Jarsa/l10n-mexico.git
 	branch = 17.0
+[submodule "l10n-edi-discount"]
+	path = l10n-edi-discount
+	url = git@git.vauxoo.com:jarsa/l10n-edi-discount.git
+	branch = 17.0
