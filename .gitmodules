@@ -4,15 +4,15 @@
 	branch = 17.0
 [submodule "server-backend"]
 	path = server-backend
-	url = git@github.com:Jarsa/server-backend.git
+	url = https://github.com/Jarsa/server-backend.git
 	branch = 17.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
-	url = git@github.com:Jarsa/stock-logistics-warehouse.git
+	url = https://github.com/Jarsa/stock-logistics-warehouse.git
 	branch = 17.0
 [submodule "bank-payment"]
 	path = bank-payment
-	url = git@github.com:Jarsa/bank-payment.git
+	url = https://github.com/Jarsa/bank-payment.git
 	branch = 17.0
 [submodule "server-ux"]
 	path = server-ux
@@ -24,7 +24,7 @@
 	branch = 17.0
 [submodule "account-analytic"]
 	path = account-analytic
-	url = git@github.com:Jarsa/account-analytic.git
+	url = https://github.com/Jarsa/account-analytic.git
 	branch = 17.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
@@ -52,7 +52,7 @@
 	branch = 17.0
 [submodule "manufacture"]
 	path = manufacture
-	url = git@github.com:Jarsa/manufacture.git
+	url = https://github.com/Jarsa/manufacture.git
 	branch = 17.0
 [submodule "reporting-engine"]
 	path = reporting-engine
@@ -64,7 +64,7 @@
 	branch = 17.0
 [submodule "mis-builder"]
 	path = mis-builder
-	url = git@github.com:Jarsa/mis-builder.git
+	url = git@github.com:OCA/mis-builder.git
 	branch = 17.0
 [submodule "account-payment"]
 	path = account-payment
