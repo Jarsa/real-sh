@@ -81,7 +81,7 @@
 [submodule "real"]
 	path = real
 	url = git@git.jarsa.com:Jarsa/real.git
-	branch = 17.0
+	branch = 17.0-ci-pipeline-rapido
 [submodule "credit-control"]
 	path = credit-control
 	url = git@github.com:Jarsa/credit-control.git
